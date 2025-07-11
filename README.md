@@ -1,10 +1,10 @@
 # Welcome to my project
 
-This is an simple Landing page of AI 👍👍👍 named (TASKLY)![alt text](image.png)
+This is an simple Landing page of AI 👍👍👍 named (TASKLY) 😍😍😍😍😍
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/e4e67254-0090-4fca-a654-39cc3f4c62d9
+**URL**: https://landingpage-six-chi.vercel.app
 
 ## How can I edit this code?
 
@@ -39,5 +39,4 @@ This project is built with:
 - Tailwind CSS
 
 
-THANKS IF YOU LIKE THIS PROJECT DON'T FORGET TO GIVE A STAR 
-![alt text](image-1.png)
+THANKS IF YOU LIKE THIS PROJECT DON'T FORGET TO GIVE A STAR 👍👍👍👍👍💖✌️💖✌️
